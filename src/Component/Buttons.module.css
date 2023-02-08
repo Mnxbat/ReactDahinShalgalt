@@ -1,0 +1,19 @@
+.Buttons-black{
+    background-color: black;
+    color: white;
+}
+.Buttons-blue{
+    background-color: blue;
+    color: white;
+}
+.Buttons-red {
+    background-color: red;
+    color: white;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 20px
+}
